@@ -1,0 +1,120 @@
+{
+    "tea":[
+        {
+            "id": 1,
+            "name": "Doodh Patti",
+            "quantity": "1Cup",
+            "price": 45.0,
+            "image": "http://clipart-library.com/new_gallery/223-2230383_wine-bottle.png"
+        },
+        {
+            "id": 2,
+            "name": "Masala Chai",
+            "quantity": "1Cup",
+            "price": 55.0,
+            "image": "http://clipart-library.com/new_gallery/145-1457541_2016-bloc-malbec-glass-bottle.png"
+        },
+        {
+            "id": 3,
+            "name": "Dhasoo Chai",
+            "quantity": "1Cup",
+            "price": 80.0,
+            "image": "http://clipart-library.com/new_gallery/145-1457541_2016-bloc-malbec-glass-bottle.png"
+        },
+        {
+            "id": 4,
+            "name": "Karak Chai",
+            "quantity": "1Cup",
+            "price": 50.0,
+            "image": "http://clipart-library.com/new_gallery/150-1502775_wine-bottle.png"
+        },
+        {
+            "id": 5,
+            "name": "Kehwa",
+            "quantity": "1Cup",
+            "price": 65.0,
+            "image": "http://clipart-library.com/new_gallery/223-2230383_wine-bottle.png"
+        },
+        {
+            "id": 5,
+            "name": "Iadrak Chai",
+            "quantity": "1Cup",
+            "price": 65.0,
+            "image": "http://clipart-library.com/new_gallery/145-1457541_2016-bloc-malbec-glass-bottle.png"
+        }
+    ],
+
+    "lassi":[
+        {
+            "id": 1,
+            "name": "Salt Lassi",
+            "quantity": "1 Big Glass",
+            "price": 70,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Salt_lassi.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Khoya Lassi",
+            "quantity": "1 Big Glass",
+            "price": 90,
+            "image": "https://1.bp.blogspot.com/-qWxYzyWsNpM/Xqb9ohCAWsI/AAAAAAAAaVE/x4Xl2yLfOfMXe8rKtVSQIb4wH7Ytse2lgCK4BGAsYHg/w404-h640/lassi-recipe.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Kulhad Lassi",
+            "quantity": "1 Big Glass",
+            "price": 110,
+            "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/ruaxf2hcnrv1sqmjaqng"
+        }
+    ],
+
+    "milk-shakes":[
+        {
+            "id": 1,
+            "name": "Mango",
+            "quantity": "1 Medium Glass",
+            "price": 120,
+            "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/mango-milkshake-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Strawberry",
+            "quantity": "1 Medium Glass",
+            "price": 150,
+            "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/05/strawberry-milkshake-1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Blueberry",
+            "quantity": "1 Medium Glass",
+            "price": 150,
+            "image": "https://static.toiimg.com/photo/84226147.cms"
+        }
+
+    ],
+
+    "cold-drinks":[
+        {
+            "id": 1,
+            "name": "Pepsi",
+            "quantity": "1.5ltr",
+            "price": 130,
+            "image": "https://static-01.daraz.pk/p/694e790ea7625a6a849d7a9aba60dfe4.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Marinda",
+            "quantity": "1.5ltr",
+            "price": 135,
+            "image": "https://i1.wp.com/www.aywadeal.com/wp-content/uploads/2019/04/41tRQ27DqwL-1.jpg?fit=342%2C342&ssl=1"
+        },
+        {
+            "id": 3,
+            "name": "Mountain Dew",
+            "quantity": "1.5ltr",
+            "price": 140,
+            "image": "https://www.pngkey.com/png/detail/435-4351926_mountain-dew-pet-dew-1-5-ltr-new.png"
+        }
+    ]
+
+}
